@@ -1,0 +1,65 @@
+================================================================================
+STATS19 ROAD TRAFFIC ACCIDENTS ANALYSIS REPORT (GREAT BRITAIN, 2025)
+================================================================================
+
+Headline KPIs (from dashboard screenshot):
+- Total Collisions: 102K
+- Fatal Collisions: 1K
+- Total Casualties: 128K
+- Average Casualties per Collision: 1.26
+
+1. Monthly Accident Volume
+   - Question: Are there months with a higher number of accidents than others?
+   - Findings: Yes. Monthly collisions are lowest in February (~7.2K) and peak
+     in November (just above 9K). Volumes sit around 8.2K in January, rise to
+     ~8.5K in March, stay relatively elevated around ~8.7K–8.8K from May to July,
+     dip to ~8.3K in August, hold around ~8.5K–8.6K in September–October, and
+     decline to ~8.4K in December.
+
+2. Distribution by Severity
+   - Question: How are accidents distributed by severity level?
+   - Findings: Slight collisions make up the vast majority at roughly ~75K
+     (~74% of the 102K total), followed by Serious collisions at roughly ~25K
+     (~25%), and Fatal collisions at ~1K (~1%).
+
+3. Road Type with Highest Recorded Accidents
+   - Question: Which road type has the highest number of recorded accidents?
+   - Findings: Single carriageway accounts for the highest number of recorded
+     collisions by a wide margin at roughly ~75K, followed by Dual carriageway
+     (~14K) and Roundabout (~7K), with One way street, Unknown, and Slip Road
+     each at roughly ~1K–2.5K.
+
+4. Urban vs. Rural Severity Proportions
+   - Question: Do severity category proportions differ between urban and rural
+     areas?
+   - Findings: The stacked bar chart displays three area codes (1, 2, and 3)
+     rather than explicit Urban/Rural labels:
+     - Code 1: ~75% Slight, ~24% Serious, ~1% Fatal.
+     - Code 2: ~68% Slight, ~29% Serious, ~3% Fatal.
+     - Code 3: ~50% Slight, ~50% Serious, with minimal/negligible Fatal share
+       visible.
+     Note: Confirm the exact mapping of codes 1, 2, and 3 to urban/rural
+     definitions before finalizing conclusions.
+
+5. Lighting and Weather Patterns
+   - Question: Do lighting or weather conditions show notable patterns?
+   - Findings: [Not visible in the provided screenshot—add findings from the
+     lighting and weather visual/page once captured.]
+
+--------------------------------------------------------------------------------
+KEY ANALYTICAL LIMITATIONS
+--------------------------------------------------------------------------------
+- Geographic scope: The dataset covers Great Britain, not Indonesia.
+- Reporting scope: The dataset only includes accidents resulting in injury,
+  reported to the police, and recorded in the STATS19 system—not all traffic
+  incidents.
+- Source platform: Data originates from GOV.UK / Department for Transport
+  (DfT) Road Safety Open Data.
+- Accident count vs. risk: Accident counts alone are not a direct measure of
+  risk; measuring risk requires denominators such as traffic volume, distance
+  travelled, or vehicle fleet size.
+- Time horizon: One year of data is insufficient to conclude long-term trends.
+- Correlation vs. causation: Relationships among weather, road type, and
+  severity do not prove cause and effect.
+- Severity adjustment methodology: Severity figures should be interpreted with
+  awareness of the DfT severity adjustment methodology.
