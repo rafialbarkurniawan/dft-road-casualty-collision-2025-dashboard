@@ -11,9 +11,7 @@ Summary and documentation for the **UK Road Safety Dashboard** based on **STATS1
 3. **Most Affected Road Type:** Which road type has the highest number of recorded accidents?
    - *Summary:* **Single carriageway** has the highest volume (~75K), ahead of **Dual carriageway** (~14K) and **Roundabout** (~7K).
 4. **Urban vs. Rural Severity Proportions:** Do severity category proportions differ between urban and rural areas?
-   - *Summary:* Across area codes `1`, `2`, and `3`, Serious shares rise from ~24% (code `1`) to ~29% (code `2`) and ~50% (code `3`), while Slight shares decrease from ~75% to ~68% and ~50%. Verify how codes `1`, `2`, and `3` map to urban/rural labels.
-5. **Lighting & Weather Patterns:** Do lighting or weather conditions show notable patterns?
-   - *Summary:* `[Pending screenshot/visual for lighting and weather conditions]`
+   - *Summary:* Across area codes `1`, `2`, and `3`, Serious shares rise from ~24% (code `1`) to ~29% (code `2`) and ~50% (code `3`), while Slight shares decrease from ~75% to ~68% and ~50%. 
 
 ## Limitations & Caveats
 - The dataset covers **Great Britain**, not Indonesia.
