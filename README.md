@@ -1,5 +1,5 @@
 # STATS19 Road Collision Dashboard (2025)
-
+![Summary](screenshots/uk-road-safety-dashboard.png)
 ## Overview
 Summary and documentation for the **UK Road Safety Dashboard** based on **STATS19** data (**102K** total collisions, **1K** fatal collisions, **128K** total casualties, and **1.26** average casualties per collision shown on the main view).
 
